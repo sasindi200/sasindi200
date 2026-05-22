@@ -1,47 +1,44 @@
-# Hi there, I'm Sasindi! 👋
+# Hi, I'm Sasindi Korala 👋
 
-### 🚀 About Me
-I am a passionate software developer focused on building clean, efficient, and impactful digital solutions. I love tackling complex problems, learning new technologies, and contributing to open-source projects.
+**Full-Stack & Front-End Developer** | Computer Science Undergraduate at the University of Westminster. I build clean, responsive, and user-focused web applications with a focus on robust architecture and smooth deployment.
 
-- 🔭 **Current Focus:** [e.g., Full-Stack Web Development / Mobile App Development]
-- 🌱 **Currently Learning:** [e.g., Advanced System Architecture / Go / Kubernetes]
-- 💬 **Ask Me About:** [e.g., React, Python, Data Structures]
-- ⚡ **Fun Fact:** [e.g., I code best when listening to lo-fi beats / I love solving logic puzzles]
+🚀 Seeking a **Front-End or Full-Stack Developer Internship** to deliver immediate value to a development team.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 💻 Featured Production-Ready Projects
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Tools & DevOps**| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+#### 1. 👕 [Modelle.lk](https://github.com/Sasindi200/modelle) — *3D Marketplace Platform*
+> **Brief:** A full-stack commercial marketplace connecting customers, fashion designers, and 3D printing service providers.
+* **The Stack:** React, Node.js, Express, MongoDB, Docker, AWS EC2, GitHub Actions
+* **Engineering Impact:**
+  * 🌐 Developed a complete production-ready workflow with containerized environments (**Docker**) deployed on **AWS EC2**.
+  * 🔄 Integrated **GitHub Actions** for an automated CI/CD pipeline ensuring seamless code integration.
+  * 🛠️ Implemented real-time communication channels, interactive management dashboards, and robust file upload systems.
 
-*(Note: Feel free to swap out the badges above with the actual technologies you use!)*
+#### 2. 🎨 [Alnora](https://github.com/Sasindi200/alnora) — *Protected Digital Art Gallery*
+> **Brief:** A secure web application where artists sign up, showcase artwork, and participate in community voting.
+* **The Stack:** React, Vite, TypeScript, Tailwind CSS, Node.js, Express, SQLite, Supabase
+* **Engineering Impact:**
+  * 🔒 Secured user data and media by implementing **Supabase Authentication** and protected routing.
+  * 💾 Engineered backend storage logic utilizing Multer for robust handling of media assets.
+
+#### 3. 📈 [CRM Lead Management System](https://github.com/Sasindi200/crm-project) — *Full-Stack Sales Pipeline*
+> **Brief:** A full-stack platform built to manage sales leads, track pipeline analytics, and handle CRUD records.
+* **The Stack:** React, Vite, Node.js, Express, SQLite, JWT, Axios, React Router
+* **Engineering Impact:**
+  * 🛡️ Developed secure user authorization workflows using **JWT tokens** and protected frontend endpoints.
 
 ---
 
-### 📊 GitHub Stats
+### 🧰 Technical Ecosystem
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasindi200&show_icons=true&theme=radical" alt="Sasindi's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindi200&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
+```text
+🌐 Languages:      JavaScript (ES6+), TypeScript, Java, HTML5, CSS3
+⚡ Front-End:       React, Vite, Tailwind CSS, React Router, React DnD
+⚙️ Back-End & DB:   Node.js, Express.js, MongoDB, SQLite, Supabase
+🔧 DevOps & Tools:  Docker, AWS EC2, GitHub Actions, Git, Postman, Figma
+🧠 Core Concepts:  OOP, Data Structures & Algorithms, RESTful APIs, CI/CD
 
----
 
-### 🤝 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://YOUR-PORTFOLIO-WEBSITE.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
